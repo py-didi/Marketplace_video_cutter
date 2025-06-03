@@ -1,0 +1,14 @@
+# Исключаем ffmpeg
+ffmpeg/
+ffmpeg/**
+
+# Исключаем exe-файлы
+*.exe
+
+# Стандартные папки и мусор
+__pycache__/
+*.pyc
+.vscode/
+build/
+dist/
+_internal
